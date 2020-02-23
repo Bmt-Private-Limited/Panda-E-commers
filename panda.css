@@ -3,6 +3,9 @@
     margin: 0;
     transition: 1s;
 }
+html{
+    scroll-behavior: smooth;
+}
 .container{
     margin-bottom: 100px;
    }
