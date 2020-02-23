@@ -1,0 +1,72 @@
+.container{
+    margin-bottom: 100px;
+   }
+   .carousel-background{
+       background-color: #FEEAE9;
+       border-radius: 10px;
+   }
+   .carousel-item{
+       padding: 20px 40px;
+   }
+   .price{
+       color: #FF136F;
+   }
+   .buy-now-button{
+       background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+       color: #fff;
+       padding: 9px 25px;
+       border-radius: 8px;
+       cursor: pointer;
+       border: none;
+   
+   }
+   .catagories h1{ 
+       color: #fff;
+   }
+   
+   .cat1, .cat2, .cat3{
+       padding: 10px 30px;
+       border-radius: 10px;
+   
+   }
+   
+   .cat1{
+       background-image: linear-gradient(45deg, #090927, rgb(25, 72, 88));
+   
+   }
+   .cat2{
+       background-image: linear-gradient(45deg, #2c2813, #FFA500);
+   
+   }
+   .cat3{
+       background-image: linear-gradient(45deg, #090927, rgb(25, 72, 88));
+   }
+   
+   
+   .card {
+       box-shadow: 5px 5px 10px lightgray;
+       border: none;
+       text-align: center;
+   }
+   #cantract{
+        background-color: #FEEAE9;
+        height: 300px;
+        border-radius: 10px;
+   }
+   
+footer {
+    text-align: center;
+    color: gray;
+    margin-bottom: 20px;
+}
+#subcribe-btn{
+    margin-left: 130px;
+    margin-top: 20px;
+
+}
+#watches{
+    height: 165px;
+    width: 121px;
+    margin: auto;
+    margin-top: 20px;
+}
